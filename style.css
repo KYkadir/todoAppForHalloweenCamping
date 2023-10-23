@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa; /* Arka plan rengi */
+}
+
+#header {
+    font-size: 25px;
+    color: #eb6512; /* Başlık rengi */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Ekleme düğmesinin rengi */
+}
+
+.list-group-item {
+    background-color: #fff; /* Listelenen öğelerin arka plan rengi */
+    margin-bottom: 5px;
+}
+
+.delete-item {
+    color: #dc3545; /* Silme düğmesinin rengi */
+}
+
+.completed {
+    text-decoration: line-through; /* Yapılan işaretlenmiş öğelerin çizgili olması */
+}
